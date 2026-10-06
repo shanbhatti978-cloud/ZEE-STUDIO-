@@ -1,0 +1,9 @@
+{
+  "name": "Zee Studio - AI Photo & Video Editor",
+  "description": "Zee Studio - All-in-one AI Photo & Video Editor with facial retouch, Urdu Nastaliq typography, background cutout, template studio, and multi-track video timeline.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
